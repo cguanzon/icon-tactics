@@ -1,0 +1,32 @@
+html{
+	font-size: 16px;
+}
+body{
+	font-size: 0.625em;
+	background-color: hsla(255, 0%, 62%, 1);
+}
+.container{
+	margin: 0 auto;
+	position: relative;
+	height: 100%;
+	background-color: #fff;
+}
+
+header{
+	text-align: center;
+	font-family: 'Quattrocento Sans', sans-serif;
+	box-sizing: border-box;
+}
+
+header h1 {
+	font-size: 8em;
+	padding-top: 0.5em;
+	margin: 0;
+}
+
+header i{
+	display: inline;
+	font-size: 2em;
+	padding:0 1em;
+}
+
